@@ -26,7 +26,7 @@
 
 你可以直接下载字体文件。请根据你的操作系统选择相应的版本：
 
-- [下载字体](https://github.com/Crpto999/jetbrainsmono-and-lxgw-font/blob/main/JetBrainsMono_LXGWWenKaiMonoGBScreen.ttf)
+- [下载字体](https://codeload.github.com/Crpto999/jetbrainsmono-and-lxgw-font/zip/refs/heads/main)
 
 ### 2. 安装字体
 
