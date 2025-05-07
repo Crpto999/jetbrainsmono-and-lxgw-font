@@ -1,4 +1,4 @@
-# 字体项目说明
+# 字体项目说明[JetBrainsMono_LXGW]
 
 此项目将 JetBrains Mono 和 LXGW WenKai 字体进行了究极缝合，添加了 Nerd 图标支持，目前实现了感到舒适的all in one 。
 
